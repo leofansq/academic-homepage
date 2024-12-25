@@ -64,24 +64,24 @@ experience:
 service:
 - title: Program Committee
   content: >-
-  <p>
-  1st Workshop on Cooperative Intelligence for Embodied AI <em>[ECCV'24]</em>
-  </p>
+    <p>
+    1st Workshop on Cooperative Intelligence for Embodied AI <em>[ECCV'24]</em>
+    </p>
 - title: Journal Reviewer
   content: >-
-  <p>
-  IEEE T-IP, IEEE T-CSVT, IEEE T-VT, IEEE T-IV, PR, IET CV, IET CSR, IEEE ITSM
-  </p>
+    <p>
+    IEEE T-IP, IEEE T-CSVT, IEEE T-VT, IEEE T-IV, PR, IET CV, IET CSR, IEEE ITSM
+    </p>
 - title: Conference Reviewer
   content: >-
-  <p>
-  CVPR, ECCV, ICRA, IROS, ITSC
-  </p>
+    <p>
+    CVPR, ECCV, ICRA, IROS, ITSC
+    </p>
 - title: Invited Talk
   content: >-
-  <p>
-  Traffic scenes understanding and simulation testing <em>[ITSC Workshop'22]</em>
-  </p>
+    <p>
+    Traffic scenes understanding and simulation testing <em>[ITSC Workshop'22]</em>
+    </p>
 
 # awards:
 # - name: Award Name 2
