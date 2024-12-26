@@ -7,7 +7,7 @@ positions:
   name: Researcher @ AIR, Tsinghua University
 
 email: "leofansq@gmail.com"
-cv_link: /assets/files/resume.pdf
+# cv_link: /assets/files/resume.pdf
 gscholar: Ahy5smMAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: leofansq
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -17,13 +17,13 @@ github: leofansq
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
   I'm Siqi Fan (范嗣祺), a researcher at Institute for AI Industry Research, Tsinghua University <em>(AIR, THU)</em>. Previously, I received my M.S. degree from Institute of Automation, Chinese Academy of Sciences <em>(CASIA)</em> in 2022, and my B.E. degree from Shanghai Jiao Tong University <em>(SJTU)</em> in 2019.
   </p>
   <p>
-  I am broadly interested in Representation Learning in Complex System from physical world <b>[Macro]</b> to biological world <b>[Micro]</b>, aiming to create AI agent that perceive like or beyond human. Driven by the dedication to innovation, I aspire to advance the fields of autonomous driving and biomedical discovery, pushing the boundaries of technology to create impactful products.
+  I am broadly interested in Representation Learning in Complex System, from macro <em>physical world</em> to micro <em>biological world</em>, aiming to create AI agent that perceive like or beyond human. Driven by the dedication to innovation, I aspire to advance the fields of autonomous driving and biomedical discovery, pushing the boundaries of technology to create impactful products.
   </p>
   <p>
   I love music and visual arts.
@@ -65,7 +65,7 @@ service:
 - title: Program Committee
   content: >-
     <p>
-    1st Workshop on Cooperative Intelligence for Embodied AI <em>[ECCV'24]</em>
+    <a href="https://coop-intelligence.github.io/" target="_blank">1st Workshop on Cooperative Intelligence for Embodied AI</a> <em>[ECCV'24]</em>
     </p>
 - title: Journal Reviewer
   content: >-
@@ -83,11 +83,13 @@ service:
     Traffic scenes understanding and simulation testing <em>[ITSC Workshop'22]</em>
     </p>
 
-# awards:
-# - name: Award Name 2
-#   date: 2024
-# - name: Award Name 1 
-#   date: 2021
-# - name: A quick brown fox jumps over the lazy dog and runs away award
-#   date: 2021
+awards:
+- name: National Scholarship
+  date: 2021
+- name: CASIA 'Pan Deng' First-class Scholarship 
+  date: 2022
+- name: Shanghai Jiao Tong University Excellent Scholarship
+  date: 2018
+- name: China Industrial Intelligence Challenge, Outstanding Award (State Level)
+  date: 2018
 
