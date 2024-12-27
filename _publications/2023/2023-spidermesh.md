@@ -1,7 +1,7 @@
 ---
 title:          "SpiderMesh: Spatial-aware Demand-guided Recursive Meshing for RGB-T Semantic Segmentation"
 date:           2023-03-15 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "[TechReport'2023] SOTA on RGB-T segmentation benchmarks"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
