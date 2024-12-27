@@ -1,5 +1,5 @@
 ---
-title:          "Learning cooperative trajectory representations for motion forecasting"
+title:          "Learning Cooperative Trajectory Representations for Motion Forecasting"
 date:           2023-11-01 00:01:00 +0800
 selected:       false
 pub:            "Advances in Neural Information Processing Systems (NeurIPS)"
