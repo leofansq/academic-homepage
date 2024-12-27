@@ -23,7 +23,7 @@ short_bio: >-
   I'm Siqi Fan (范嗣祺), a researcher at Institute for AI Industry Research, Tsinghua University <em>(AIR, THU)</em>. Previously, I received my M.S. degree from Institute of Automation, Chinese Academy of Sciences <em>(CASIA)</em> in 2022, and my B.E. degree from Shanghai Jiao Tong University <em>(SJTU)</em> in 2019.
   </p>
   <p>
-  I am broadly interested in Representation Learning in Complex System, from macro <em>physical world</em> to micro <em>biological world</em>, aiming to create AI agent that perceive like or beyond human. Driven by the dedication to innovation, I aspire to advance the fields of autonomous driving and biomedical discovery, pushing the boundaries of technology to create impactful products.
+  I am broadly interested in Representation Learning in Complex System, from macro <em>physical world</em> to micro <em>biological world</em>, aiming to create AI agents that perceive like or beyond human. Driven by the dedication to innovation, I aspire to advance the fields of autonomous driving and biomedical discovery, pushing the boundaries of technology to create impactful products.
   </p>
   <p>
   I love music and visual arts.
@@ -40,7 +40,7 @@ education:
     School of Electronic Information and Electrical Engineering <br/>
     B.E. in Automation
   date: Sep. 2015 - Jul. 2019
-- name: Chinese Academy of Sciences (CAS)
+- name: University of Chinese Academy of Sciences (UCAS)
   logo: /assets/images/badges/UCAS.png
   position: >- 
     Institute of Automation <br/>
