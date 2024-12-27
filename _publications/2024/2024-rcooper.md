@@ -1,7 +1,7 @@
 ---
 title:          "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception"
 date:           2024-03-15 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
