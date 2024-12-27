@@ -7,7 +7,7 @@ group: Selected Projects
 <div>
   <img data-src="{{ 'assets/images/covers_projects/lane_follower.png' | relative_url }}" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <div class="card-body">
-    <h5 class="card-title">Object Cluster</h5>
+    <h5 class="card-title">Lane Follower</h5>
     <p class="card-text">
       Lane-detector (OpenCV) + Object-detector (YOLO5) + CAN-bus
     </p>
