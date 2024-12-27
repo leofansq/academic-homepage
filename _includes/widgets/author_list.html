@@ -11,7 +11,7 @@
         {%- assign has_eq_contrib = true -%}
     {%- elsif last_char == "@" -%}
         {%- assign key = _key | split: "@" | first -%}
-        {%- assign mark = "@" -%}
+        {%- assign mark = '<sup>@</sup>' -%}
         {%- assign has_mentored = true -%}
     {%- elsif last_char == "#" -%}
         {%- assign key = _key | split: "#" | first -%}
@@ -52,7 +52,7 @@
         * <i> equal contribution</i>
     {%- endif -%}
     {%- if has_mentored -%}
-        @ <i> mentored</i>
+        <sup>@</sup> <i> mentored</i>
     {%- endif -%}
     {%- if has_corresponding -%}
         {%- if has_eq_contrib -%}, {% endif -%}
