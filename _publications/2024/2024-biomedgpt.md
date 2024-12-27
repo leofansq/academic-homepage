@@ -1,7 +1,7 @@
 ---
 title:          "BioMedGPT: An Open Multimodal Large Language Model for BioMedicine"
 date:           2024-11-25 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "IEEE Journal of Biomedical and Health Informatics (J-BHI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
