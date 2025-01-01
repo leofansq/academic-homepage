@@ -19,4 +19,5 @@ authors:
 links:
   Paper: https://arxiv.org/pdf/2308.01804.pdf
   Code: https://github.com/leofansq/QUEST
+  第三方中文解读: https://blog.csdn.net/lwk___123/article/details/138217651
 ---

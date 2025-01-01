@@ -19,4 +19,5 @@ authors:
 links:
   Paper: https://arxiv.org/pdf/2311.00371
   Code: https://github.com/AIR-THU/V2X-Graph
+  第三方中文解读: https://mp.weixin.qq.com/s/6vroV_0oNzUmj_5XylaOZQ?poc_token=HFYUdWejms_QZ8lKcunvPwHPal3dLQXoSIt4XWfk
 ---

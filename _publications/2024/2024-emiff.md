@@ -22,4 +22,5 @@ authors:
 links:
   Paper: https://arxiv.org/pdf/2402.15272
   Code: https://github.com/Bosszhe/EMIFF
+  第三方中文解读: https://mp.weixin.qq.com/s/ydCbijfb4l74Jxu2Gv5rkg
 ---

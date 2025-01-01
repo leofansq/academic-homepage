@@ -18,4 +18,5 @@ authors:
 links:
   Paper: https://arxiv.org/pdf/2303.08692.pdf
   Code: https://github.com/leofansq/SpiderMesh
+  News: https://robotics.pkusz.edu.cn/weeklyreport/20230324.%20%E3%80%90ArXiv%E3%80%91SpiderMesh_Spatial-aware%20Demand-guided%20Recursive%20Meshing%20for%20RGB-T%20Semantic%20Segmentation/?back=1
 ---

@@ -24,4 +24,6 @@ authors:
 links:
   Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Hao_RCooper_A_Real-world_Large-scale_Dataset_for_Roadside_Cooperative_Perception_CVPR_2024_paper.html
   Code: https://github.com/AIR-THU/DAIR-RCooper
+  News: https://mp.weixin.qq.com/s/wplyIhrGt5KAarJCbu35-A
+  第三方中文解读: https://mp.weixin.qq.com/s/hW_1_WhX_Ssb2cPCIjZ-Tg
 ---

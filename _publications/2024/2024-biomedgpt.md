@@ -22,4 +22,5 @@ authors:
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10767279
   Code: https://github.com/PharMolix/OpenBioMed
+  News: https://mp.weixin.qq.com/s/NbkY4SNfou0FtdJpWQYt3w
 ---
