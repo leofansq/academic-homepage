@@ -23,7 +23,7 @@ short_bio: >-
   I'm Siqi Fan (范嗣祺), a researcher at Institute for AI Industry Research, Tsinghua University <em>(AIR, THU)</em>. Previously, I received my M.S. degree from Institute of Automation, Chinese Academy of Sciences <em>(CASIA)</em> in 2022, and my B.E. degree from Shanghai Jiao Tong University <em>(SJTU)</em> in 2019.
   </p>
   <p>
-  I am broadly interested in Representation Learning in Complex System, from macro <em>physical world</em> to micro <em>biological world</em>, aiming to create AI agents that perceive like or beyond human. Driven by the dedication to innovation, I aspire to advance the fields of autonomous driving and biomedical discovery, pushing the boundaries of technology to create impactful products.
+  I am broadly interested in Representation Learning in Complex Systems, from macro <em>physical world</em> to micro <em>biological world</em>, aiming to create AI agents that perceive like or beyond human. Driven by the dedication to innovation, I aspire to advance the fields of autonomous driving and biomedical discovery, pushing the boundaries of technology to create impactful products.
   </p>
   <p>
   I love music and visual arts.
@@ -48,7 +48,7 @@ education:
   date: Sep. 2019 - Jul. 2022
 
 experience:
-- name: Intel Labs China (ILC)
+- name: Autonomous System Group, Intel Labs China (ILC)
   logo: /assets/images/badges/INTEL.png
   position: Research Intern
   date: Aug. 2020 - Dec. 2021
@@ -56,13 +56,13 @@ experience:
   logo: /assets/images/badges/CASIA.png
   position: Student Researcher
   date: Sep. 2019 - Jul. 2022
-- name: Institute for AI Industry Research, Tsinghua University (AIR)
+- name: Institute for AI Industry Research, Tsinghua University (AIR, THU)
   logo: /assets/images/badges/THU.png
   position: Researcher
   date: Jul. 2022 - Present
 
 service:
-- title: Program Committee
+- title: Program Committee & Area Chair
   content: >-
     <p>
     <a href="https://coop-intelligence.github.io/" target="_blank">1st Workshop on Cooperative Intelligence for Embodied AI</a> <em>[ECCV'24]</em>
@@ -77,7 +77,7 @@ service:
     <p>
     CVPR, ECCV, ICRA, IROS, ITSC
     </p>
-- title: Invited Talk
+- title: Invited Speaker
   content: >-
     <p>
     Traffic scenes understanding and simulation testing <em>[ITSC Workshop'22]</em>
