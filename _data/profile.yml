@@ -65,12 +65,13 @@ service:
 - title: Program Committee & Area Chair
   content: >-
     <p>
-    <a href="https://coop-intelligence.github.io/" target="_blank">1st Workshop on Cooperative Intelligence for Embodied AI</a> <em>[ECCV'24]</em>
+    <a href="https://coop-intelligence.github.io/" target="_blank">Workshop on Multi-Agent Embodied Intelligent Systems Meet Generative-AI Era</a> @ <em>CVPR'25</em>
+    <a href="https://coop-intelligence.github.io/eccv2024/" target="_blank">Workshop on Cooperative Intelligence for Embodied AI</a> @ <em>ECCV'24</em>
     </p>
 - title: Journal Reviewer
   content: >-
     <p>
-    IEEE T-IP, IEEE T-CSVT, IEEE T-VT, IEEE T-IV, PR, IET CV, IET CSR, IEEE ITSM
+    IEEE (TIP, TCSVT, TVT, TIV, ITSM), IET (CV, CSR), PR
     </p>
 - title: Conference Reviewer
   content: >-
@@ -80,7 +81,7 @@ service:
 - title: Invited Speaker
   content: >-
     <p>
-    Traffic scenes understanding and simulation testing <em>[ITSC Workshop'22]</em>
+    Traffic scenes understanding and simulation testing @ <em>ITSC'22</em>
     </p>
 
 awards:
